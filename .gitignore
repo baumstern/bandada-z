@@ -86,3 +86,6 @@ typechain
 !.yarn/versions
 
 *.db
+
+terraform
+
